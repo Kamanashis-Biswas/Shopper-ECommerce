@@ -49,6 +49,7 @@ hero-hand-icon image {
   color: white;
   font-size: 22px;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .hero-right {
