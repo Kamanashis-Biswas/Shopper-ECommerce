@@ -54,7 +54,7 @@
   cursor: pointer;
 }
 
-@media (min-width: 1280px) {
+@media (max-width: 1280px) {
   .news-letter {
     padding: 0px 80px;
     margin-bottom: 120px;
@@ -84,7 +84,7 @@
   }
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 1024px) {
   .news-letter {
     margin-bottom: 60px;
   }
@@ -114,7 +114,7 @@
   }
 }
 
-@media (min-width: 800px) {
+@media (max-width: 800px) {
   .news-letter {
     margin-bottom: 30px;
     height: 35vh;
@@ -145,7 +145,7 @@
   }
 }
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   .news-letter {
     height: 25vh;
     width: 100%;

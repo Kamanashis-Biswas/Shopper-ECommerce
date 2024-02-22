@@ -177,7 +177,7 @@
   }
 }
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   .navbar {
     width: 8px 0px;
     gap: 0;
